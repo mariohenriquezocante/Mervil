@@ -1,0 +1,46 @@
+#quem-somos {
+    background-color: rgb(238, 238, 238);
+}
+
+div.container-quemsomos {
+    align-items: center;
+    text-align: center;
+    height: 450px;
+    width: 900px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 16%;
+    background-color: rgb(238, 238, 238);
+}
+
+div.container-quemsomos .titulo {
+    margin-top: 7%;
+    border: solid 3px;
+    border-radius: 100px;
+    border-color: rgb(17, 17, 17);
+    width: 200px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+div.container-quemsomos .titulo h2 {    
+    font-size: 23px;
+    color: rgb(17, 17, 17);
+    font-weight: 500;
+}
+
+div.container-quemsomos .titulo:hover {
+   transform: scale(1.05);
+   background-color: rgb(233, 233, 233);
+}
+
+div.container-quemsomos p {
+    font-size: 17px;
+    font-weight: 400;
+    color: rgb(17, 17, 17);
+    line-height: 23px;
+    margin-top: 4%;
+}

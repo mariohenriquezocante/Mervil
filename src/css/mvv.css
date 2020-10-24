@@ -1,0 +1,95 @@
+#mvv {
+    display: flex;
+    justify-content: center;
+    background-color: #e2e2e2;
+    height: 580px;
+}
+
+div.cards {
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    max-width: 1100px;
+    background-color: rgba(61, 61, 61, 0);
+    max-height: 450px;
+}
+
+div.cards img {
+    width: 60px;
+    height: 60px;
+    margin-top: 7%;
+}
+
+div.cards .card-missao {
+    background-color: rgb(141, 141, 141);
+    padding: 23px;
+    margin-right: 40px;
+    margin-top: -60px;
+    border-radius: 10px;
+}
+
+div.cards .card-missao .missao-titulo {
+    font-size: 27px;
+    font-weight: 500;
+}
+
+div.cards .card-missao .missao-texto {
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 20px;
+    margin-top: 10px;
+}
+
+div.cards .card-missao:hover {
+    transform: scale(1.05);
+    background-color: rgb(167, 167, 167);
+}
+
+div.cards .card-visao {
+    background-color:  rgb(141, 141, 141);
+    padding: 23px;
+    margin-top: -60px;
+    border-radius: 10px;
+}
+
+div.cards .card-visao .visao-titulo {
+    font-size: 27px;
+    font-weight: 500;
+}
+
+div.cards .card-visao .visao-texto {
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 20px;
+    margin-top: 10px;
+}
+
+div.cards .card-visao:hover {
+    transform: scale(1.05);
+    background-color: rgb(167, 167, 167);
+}
+
+div.cards .card-valores {
+    background-color: rgb(141, 141, 141);
+    margin-left: 40px;
+    padding: 23px;
+    margin-top: -60px;
+    border-radius: 10px;
+}
+
+div.cards .card-valores:hover {
+    transform: scale(1.05);
+    background-color: rgb(167, 167, 167);
+}
+
+div.cards .card-valores .valores-titulo {
+    font-size: 27px;
+    font-weight: 500;
+}
+
+div.cards .card-valores .valores-texto {
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 20px;
+    margin-top: 10px;
+}

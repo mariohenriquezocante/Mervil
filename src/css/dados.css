@@ -1,0 +1,73 @@
+#dados {
+    display: flex;
+    justify-content: center;
+    height: 480px;
+}
+
+div.container-dados {
+    width: 850px;
+    text-align: center;
+    margin-top: 8%;
+}
+
+div.container-dados .titulo-dados {
+    font-size: 45px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: white;
+}
+
+div.container-dados .cards-dado {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 10%;
+}
+
+div.container-dados .cards-dado .dados1 div {
+    background-color: rgba(0, 0, 0, 0.651);
+    margin-bottom: 20px;
+}
+
+div.container-dados .cards-dado .dados1 span {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+div.container-dados .cards-dado .dados1 div span {
+    font-size: 45px;
+    color: white;
+}
+
+div.container-dados .cards-dado .dados2 div {
+    background-color: rgba(0, 0, 0, 0.651);
+    margin-bottom: 20px;
+}
+
+div.container-dados .cards-dado .dados2 span {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+div.container-dados .cards-dado .dados2 div span {
+    font-size: 45px;
+    color: white;
+}
+
+div.container-dados .cards-dado .dados3 div {
+    background-color: rgba(0, 0, 0, 0.651);
+    margin-bottom: 20px;
+}
+
+div.container-dados .cards-dado .dados3 span {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+div.container-dados .cards-dado .dados3 div span {
+    font-size: 45px;
+    color: white;
+    padding: 10px;
+}
+
