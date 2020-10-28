@@ -1,0 +1,113 @@
+#footer {
+    height: 130px;
+    background-color: black;
+    color: blanchedalmond;
+}
+
+.container-footer {
+    display: flex;
+    justify-content: space-between;
+    height: 130px;
+    text-align: center;
+}
+
+.container-footer .email-footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.container-footer .email-footer a.voltar-home img {
+    margin-right: 150px;
+    width: 30px;
+    height: 30px;
+    margin-bottom: 35px;
+}
+
+.container-footer .email-footer .voltar-home img:hover {
+    transform: scale(1.1);
+}
+
+.container-footer .email-footer .redes-sociais {
+    display: flex;
+    justify-content: center;
+}
+
+.container-footer .email-footer .redes-sociais a img{
+    padding-left: 10px;
+    width: 18px;
+    height: 18px;
+    margin-bottom: 0px;
+}
+
+.container-footer .email-footer .redes-sociais a img:hover {
+    transform: scale(1.1);
+}
+
+.container-footer .email-footer .email {
+    color: blanchedalmond;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 300;
+    margin-bottom: 5px;
+}
+
+.container-footer .logo-footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.container-footer .logo-footer img {
+    height: 45px;
+    width: 115px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.container-footer .logo-footer p.frase-wm {
+    color: blanchedalmond;
+    font-size: 14px;
+    font-weight: 300;
+    margin-top: 0px;
+}
+
+.container-footer .logo-footer .frase-wm a {
+    color: blanchedalmond;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.container-footer .logo-footer p.frase-mervil {
+    color: blanchedalmond;
+    font-size: 14px;
+    font-weight: 300;
+    height: 15px;
+    margin-bottom: 5px;
+}
+
+.container-footer .logo-footer .frase-mervil span {
+    color: blanchedalmond;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.container-footer .contato-footer  {
+    color: blanchedalmond;
+    font-size: 14px;
+    font-weight: 300;
+    margin-right: 15px;
+    margin-top: 55px;
+    text-align: left;
+}
+
+.container-footer .contato-footer .telefone-footer {
+    margin-bottom: -10px;
+}
+
+.container-footer .contato-footer .endereço1-footer {
+    margin-bottom: -10px;
+}

@@ -12,9 +12,10 @@ div.container-dados {
 
 div.container-dados .titulo-dados {
     font-size: 45px;
+    font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
-    font-weight: 500;
-    color: white;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
 }
 
 div.container-dados .cards-dado {
@@ -33,6 +34,7 @@ div.container-dados .cards-dado .dados1 div {
 div.container-dados .cards-dado .dados1 span {
     font-size: 20px;
     font-weight: 500;
+    color: rgb(0, 0, 0);
 }
 
 div.container-dados .cards-dado .dados1 div span {
@@ -48,6 +50,7 @@ div.container-dados .cards-dado .dados2 div {
 div.container-dados .cards-dado .dados2 span {
     font-size: 20px;
     font-weight: 500;
+    color: rgb(0, 0, 0);
 }
 
 div.container-dados .cards-dado .dados2 div span {
@@ -63,6 +66,7 @@ div.container-dados .cards-dado .dados3 div {
 div.container-dados .cards-dado .dados3 span {
     font-size: 20px;
     font-weight: 500;
+    color: rgb(0, 0, 0);
 }
 
 div.container-dados .cards-dado .dados3 div span {

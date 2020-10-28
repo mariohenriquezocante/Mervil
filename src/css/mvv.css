@@ -1,7 +1,7 @@
 #mvv {
     display: flex;
     justify-content: center;
-    background-color: #e2e2e2;
+    background-color:  #a5e9e1;
     height: 580px;
 }
 
@@ -21,10 +21,10 @@ div.cards img {
 }
 
 div.cards .card-missao {
-    background-color: rgb(141, 141, 141);
+    background-color:  #439ea5;
     padding: 23px;
     margin-right: 40px;
-    margin-top: -60px;
+    margin-top: -75px;
     border-radius: 10px;
 }
 
@@ -36,19 +36,20 @@ div.cards .card-missao .missao-titulo {
 div.cards .card-missao .missao-texto {
     font-size: 17px;
     font-weight: 400;
-    line-height: 20px;
+    line-height: 23px;
     margin-top: 10px;
+    font-family: 'Open Sans', sans-serif;
 }
 
 div.cards .card-missao:hover {
     transform: scale(1.05);
-    background-color: rgb(167, 167, 167);
+    background-color:  #40989e ;
 }
 
 div.cards .card-visao {
-    background-color:  rgb(141, 141, 141);
+    background-color:   #439ea5 ;
     padding: 23px;
-    margin-top: -60px;
+    margin-top: -75px;
     border-radius: 10px;
 }
 
@@ -60,36 +61,57 @@ div.cards .card-visao .visao-titulo {
 div.cards .card-visao .visao-texto {
     font-size: 17px;
     font-weight: 400;
-    line-height: 20px;
+    line-height: 23px;
     margin-top: 10px;
+    font-family: 'Open Sans', sans-serif;
 }
 
 div.cards .card-visao:hover {
     transform: scale(1.05);
-    background-color: rgb(167, 167, 167);
+    background-color: #40989e ;
 }
 
 div.cards .card-valores {
-    background-color: rgb(141, 141, 141);
+    background-color:   #439ea5;
     margin-left: 40px;
     padding: 23px;
-    margin-top: -60px;
+    margin-top: -75px;
     border-radius: 10px;
 }
 
 div.cards .card-valores:hover {
     transform: scale(1.05);
-    background-color: rgb(167, 167, 167);
+    background-color: #40989e ;
 }
 
 div.cards .card-valores .valores-titulo {
     font-size: 27px;
     font-weight: 500;
+    
 }
 
 div.cards .card-valores .valores-texto {
     font-size: 17px;
     font-weight: 400;
-    line-height: 20px;
+    line-height: 23px;
     margin-top: 10px;
+    font-family: 'Open Sans', sans-serif;
 }
+
+ img.borda1 {
+     width: 100%;
+     margin-top: -110px;
+     
+ }
+
+ img.borda2 {
+    width: 100%;
+   margin-bottom: -390px;
+    
+}
+
+img.borda3 {
+    width: 100%;
+    margin-top: -95px;
+}
+
