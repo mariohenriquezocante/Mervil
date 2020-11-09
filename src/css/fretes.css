@@ -1,0 +1,142 @@
+#fretes {
+    display: flex;
+    justify-content: center;
+    height: 480px;
+}
+
+div.container-fretes {
+    width: 85%;
+    text-align: center;
+    margin-top: 8%;
+}
+
+div.container-fretes .titulo-fretes {
+    font-size: 45px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+}
+
+div.container-fretes .cards-fretes {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10%;
+    margin-left: 20px;
+}
+
+div.container-fretes .cards-fretes a {
+    text-decoration: none;
+}
+
+div.container-fretes .cards-fretes .fretes1 {
+    display: flex;
+    align-items: top;
+}
+
+div.container-fretes .cards-fretes .fretes1 .whatsfrete1 {
+    width: 50px;
+    height: 50px;
+    margin-top: 7px;
+    margin-right: -20px;
+}
+
+div.container-fretes .cards-fretes .fretes1 .whatsfrete1:hover {
+    transform: scale(1.1);
+}
+
+div.container-fretes .cards-fretes .fretes1 div {
+    width: 400px;
+    margin-bottom: 20px;
+    margin-left: -40px;
+}
+
+div.container-fretes .cards-fretes .fretes1 .vendedor1 span {
+    font-size: 35px;
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+}
+
+div.container-fretes .cards-fretes .fretes1 .vendedor1 p {
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+    margin-top: 0px;
+    margin-left: -60px;
+}
+
+
+div.container-fretes .cards-fretes .fretes2 {
+    display: flex;
+    align-items: top;
+}
+
+div.container-fretes .cards-fretes .fretes2 .whatsfrete2 {
+    width: 50px;
+    height: 50px;
+    margin-top: 7px;
+    margin-right: -20px;
+}
+
+div.container-fretes .cards-fretes .fretes2 a .whatsfrete2:hover {
+    transform: scale(1.1);
+}
+
+div.container-fretes .cards-fretes .fretes2 div {
+    width: 400px;
+    margin-bottom: 20px;
+    margin-left: -60px;
+}
+
+div.container-fretes .cards-fretes .fretes2 .vendedor2 span {
+    font-size: 35px;
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+}
+
+div.container-fretes .cards-fretes .fretes2 .vendedor2 p {
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+    margin-top: 0px;
+    margin-left: -25px;
+}
+
+div.container-fretes .cards-fretes .fretes3 {
+    display: flex;
+    align-items: top;
+}
+
+div.container-fretes .cards-fretes .fretes3 .whatsfrete3 {
+    width: 50px;
+    height: 50px;
+    margin-top: 7px;
+    margin-right: -20px;
+}
+
+div.container-fretes .cards-fretes .fretes3 a .whatsfrete3:hover {
+    transform: scale(1.1);
+}
+
+div.container-fretes .cards-fretes .fretes3 div {
+    width: 400px;
+    margin-bottom: 20px;
+    margin-left: -80px;
+}
+
+div.container-fretes .cards-fretes .fretes3 .vendedor3 span {
+    font-size: 35px;
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+}
+
+div.container-fretes .cards-fretes .fretes3 .vendedor3 p {
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+    margin-top: 0px;
+    margin-left: 20px;
+}
+
+
