@@ -1,11 +1,11 @@
-#quem-somos {
+#sobre-servicos {
     background-color: #f2f5fa;
 }
 
-div.container-quemsomos {
+div.container-sobreservicos {
     align-items: center;
     text-align: center;
-    height: 450px;
+    height: 320px;
     width: 900px;
     display: flex;
     flex-direction: column;
@@ -13,35 +13,40 @@ div.container-quemsomos {
     background-color: #f2f5fa;
 }
 
-div.container-quemsomos .titulo {
+div.container-sobreservicos .titulo-servicos {
     margin-top: 7%;
     border-color: rgb(17, 17, 17);
     border: solid 3px;
     border-radius: 100px;
-    width: 320px;
+    width: 450px;
     height: 70px;
     display: flex;
     justify-content: center;
     text-align: center;
     align-items: center;
+    margin-top: 10%;
 }
 
-div.container-quemsomos .titulo h2 { 
+div.container-sobreservicos .titulo-servicos h2 { 
     font-family: 'Open Sans', sans-serif;   
     font-size: 23px;
     color: rgb(17, 17, 17);
     font-weight: 600;
 }
 
-div.container-quemsomos .titulo:hover {
+div.container-sobreservicos .titulo-servicos:hover {
    transform: scale(1.05);
 }
 
-div.container-quemsomos p {
+div.container-sobreservicos p {
     font-family: 'Open Sans', sans-serif;
     font-size: 17px;
     font-weight: 400;
     color:#616060;
     line-height: 23px;
-    margin-top: 4%;
+    margin-top: 7%;
+}
+
+img.bordaS1 {
+    width: 100%;
 }

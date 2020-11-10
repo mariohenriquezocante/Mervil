@@ -1,7 +1,7 @@
 #mvv {
     display: flex;
     justify-content: center;
-    background-color:  #a5e9e1;
+    background-color:  #243665;
     height: 580px;
 }
 
@@ -21,7 +21,7 @@ div.cards img {
 }
 
 div.cards .card-missao {
-    background-color:  #439ea5;
+    background-color:  #8bd8bd;
     padding: 23px;
     margin-right: 40px;
     margin-top: -75px;
@@ -43,11 +43,11 @@ div.cards .card-missao .missao-texto {
 
 div.cards .card-missao:hover {
     transform: scale(1.05);
-    background-color:  #40989e ;
+    background-color:  #afebd6 ;
 }
 
 div.cards .card-visao {
-    background-color:   #439ea5 ;
+    background-color:   #8bd8bd ;
     padding: 23px;
     margin-top: -75px;
     border-radius: 10px;
@@ -68,11 +68,11 @@ div.cards .card-visao .visao-texto {
 
 div.cards .card-visao:hover {
     transform: scale(1.05);
-    background-color: #40989e ;
+    background-color: #afebd6 ;
 }
 
 div.cards .card-valores {
-    background-color:   #439ea5;
+    background-color:   #8bd8bd;
     margin-left: 40px;
     padding: 23px;
     margin-top: -75px;
@@ -81,7 +81,7 @@ div.cards .card-valores {
 
 div.cards .card-valores:hover {
     transform: scale(1.05);
-    background-color: #40989e ;
+    background-color: #afebd6;
 }
 
 div.cards .card-valores .valores-titulo {
