@@ -52,6 +52,28 @@ div.header nav ul li a:hover {
 .col-100 .slider-principal img{
     height: 100vh;
 }
+
+.col-100 .titulo {
+    margin-top: -350px;
+    position: absolute;
+    font-size: 4.000em;
+    letter-spacing: 4px;
+    font-family: 'Titillium Web', sans-serif;
+    color: #fff;
+    font-weight: 800;
+    margin-left: 7%;
+}
+
+.col-100 .subtitulo {
+    margin-top: -260px;
+    position: absolute;
+    font-size: 22px;
+    font-family: 'Titillium Web', sans-serif;
+    color:#D5D4D4;
+    max-width: 700px;
+    margin-left: 7%;
+}
+
 .col-100 {
     width: 100%;
     float: left;
@@ -115,3 +137,23 @@ button.slick-next {
 li.slick-active button {
     background: #00bac6;
 }
+
+  
+div.icone-whats a  img{
+    width: 60px;
+    height: 60px;
+ }
+
+ div.icone-whats a  img:hover  {
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+ }
+ 
+ div.whats a  img{
+     width: auto;
+     position: fixed;
+     bottom: 20px;
+     right: 30px;
+     z-index: 999;
+ }

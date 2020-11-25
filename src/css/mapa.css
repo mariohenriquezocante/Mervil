@@ -29,7 +29,7 @@ div.estados p {
   }
   
   #svg-map .mt path {
-    fill: #42c7b7;
+    fill: #243665;
   }
 
   #svg-map text {
@@ -48,14 +48,14 @@ div.estados p {
   }
   
   #svg-map .mt  path:hover {
-    fill: #1c5c61;
+    fill: #8fa6df;
   }
   
   #svg-map .circle {
     fill: rgb(26, 26, 26);
   }
   
-  #svg-map .df .circle  {
+  #svg-map .df .circle  {''
     fill: rgb(209, 209, 209);
   }
 
