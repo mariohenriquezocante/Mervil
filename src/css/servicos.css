@@ -20,7 +20,7 @@ div.container-servicos .servicos1 {
 }
 
 div.container-servicos .servicos1 div.imgservicos1 {
-   background: url(../assets/imgServicos.jpg) no-repeat center;
+   background: url(../assets/imgServico.jpg) no-repeat center;
    width: 425px;
    height: 275px;
    border-radius: 20%;
@@ -45,7 +45,7 @@ div.container-servicos .servicos2 {
 }
 
 div.container-servicos .servicos2 div.imgservicos2 {
-   background: url(../assets/imgServicos.jpg) no-repeat center;
+   background: url(../assets/imgServico.jpg) no-repeat center;
    width: 425px;
    height: 275px;
    border-radius: 20%;
@@ -71,7 +71,7 @@ div.container-servicos .servicos3 {
 }
 
 div.container-servicos .servicos3 div.imgservicos3 {
-   background: url(../assets/imgServicos.jpg) no-repeat center;
+   background: url(../assets/imgServico.jpg) no-repeat center;
    width: 425px;
    height: 275px;
    border-radius: 20%;
